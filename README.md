@@ -19,8 +19,8 @@ In this project, I performed computational structural modeling of human RRM-cont
 
 ## ⚙️ Workflow
 
-Dataset Collection → Sequence Analysis (BLAST) → Model Selection  
-→ Structure Prediction (MODELLER / I-TASSER)  
+Dataset Collection → Sequence Analysis (BLAST+) → Model Selection  
+→ Structure Prediction (MODELLER / I-TASSER Suite)  
 → Validation (PROCHECK, ProSA)
 
 ---
@@ -36,7 +36,7 @@ Dataset Collection → Sequence Analysis (BLAST) → Model Selection
   - Combined domains
 
 ### 2. Sequence Analysis
-- Tool: BLASTp
+- Tool: BLAST+
 - Criteria:
   - >35% similarity → Homology modeling
   - <35% similarity → Threading
@@ -48,7 +48,7 @@ Dataset Collection → Sequence Analysis (BLAST) → Model Selection
 - Used high-similarity templates
 
 #### Threading
-- Tool: I-TASSER
+- Tool: I-TASSER Suite
 - Used for low similarity sequences
 
 ### 4. Structure Validation
