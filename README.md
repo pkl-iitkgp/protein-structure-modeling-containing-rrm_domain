@@ -67,3 +67,33 @@ Dataset Collection → Sequence Analysis (BLAST+) → Model Selection
 ---
 
 ## 📁 Project Structure
+
+protein-structure-modeling-containing-rrm_domain/
+│── data/
+│── scripts/
+│── results/
+│── figures/
+│── docs/
+│── README.md
+
+---
+
+## 📷 Figures
+(Add your images here)
+- RRM domain structure
+- Workflow diagram
+- Sample modeled structures
+
+---
+
+## 🚀 Future Work
+- Compare predicted structures with AlphaFold models
+- Perform RNA-protein docking
+- Identify key RNA-binding residues
+- Integrate machine learning for structure quality prediction
+
+---
+
+## 🧑‍💻 Author
+Pradeep Kumar Lohra  
+M.Tech Biotechnology & Biochemical Engineering  
