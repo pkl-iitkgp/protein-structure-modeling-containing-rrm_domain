@@ -79,7 +79,6 @@ protein-structure-modeling-containing-rrm_domain/
 ---
 
 ## 📷 Figures
-(Add your images here)
 - RRM domain structure
 - Workflow diagram
 - Sample modeled structures
