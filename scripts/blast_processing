@@ -1,0 +1,17 @@
+## 🧪 Data Processing and Template Selection
+
+BLASTp results from multiple proteins were aggregated into a unified dataset using a custom Python pipeline. Each alignment entry included query ID, subject ID, percent identity, alignment length, and a computed similarity score.
+
+The similarity score was calculated as:
+
+similarity_score = (percent identity × alignment length) / 100
+
+This metric integrates both sequence identity and alignment coverage to prioritize structurally relevant templates.
+
+Proteins were classified into modeling strategies based on sequence identity:
+- >35% identity → Homology modeling (MODELLER)
+- ≤35% identity → Threading (I-TASSER)
+
+For each protein, the highest scoring template was selected for downstream structural modeling.
+
+Data processing and filtering were performed using Python.
