@@ -1,0 +1,46 @@
+S_No,Target_Sequence,Domain_Architecture,Category
+1,Q9Y3B4,1 RRM,Single RRM
+2,P08621,1 RRM,Single RRM
+3,P98179,1 RRM,Single RRM
+4,Q6ZRY4,1 RRM,Single RRM
+5,Q01081,1 RRM,Single RRM
+6,Q93062,1 RRM,Single RRM
+7,O43347,2 RRMs,Multiple RRM domains
+8,O95758,4 RRMs,Multiple RRM domains
+9,P08579,2 RRMs,Multiple RRM domains
+10,P09012,2 RRMs,Multiple RRM domains
+11,P22626,2 RRMs,Multiple RRM domains
+12,P23246,2 RRMs,Multiple RRM domains
+13,P26368,3 RRMs,Multiple RRM domains
+14,P26378,3 RRMs,Multiple RRM domains
+15,P26599,4 RRMs,Multiple RRM domains
+16,P31942,2 RRMs,Multiple RRM domains
+17,P31943,3 RRMs,Multiple RRM domains
+18,P51991,2 RRMs,Multiple RRM domains
+19,P52597,3 RRMs,Multiple RRM domains
+20,P55795,3 RRMs,Multiple RRM domains
+21,Q5SZQ8,3 RRMs,Multiple RRM domains
+22,Q8N6W0,3 RRMs,Multiple RRM domains
+23,Q9UKA9,4 RRMs,Multiple RRM domains
+24,Q32P51,2 RRMs,Multiple RRM domains
+25,Q96DU9,4 RRMs,Multiple RRM domains
+26,Q01085,3 RRMs,Multiple RRM domains
+27,Q07955,2 RRMs,Multiple RRM domains
+28,Q12849,3 RRMs,Multiple RRM domains
+29,Q12926,3 RRMs,Multiple RRM domains
+30,Q15020,2 RRMs,Multiple RRM domains
+31,Q15233,2 RRMs,Multiple RRM domains
+32,Q15717,3 RRMs,Multiple RRM domains
+33,Q92879,3 RRMs,Multiple RRM domains
+34,Q99729,2 RRMs,Multiple RRM domains
+35,O00425,"4 KH, 2 RRMs","RRM + Other domains"
+36,Q13310,"1 PABC, 4 RRMs","RRM + Other domains"
+37,Q9GZY0,"1 TAPC, 1 NTF2, 1 RRM","RRM + Other domains"
+38,Q9NZI8,"4 KH, 2 RRMs","RRM + Other domains"
+39,Q9UNP9,"PPIase cyclophilin-type, 1 RRM","RRM + Other domains"
+40,P05455,"1 HTH La-type, 1 RRM","RRM + Other domains"
+41,Q96BT7,"1 Fe2OG dioxygenase, 1 RRM","RRM + Other domains"
+42,Q9H1B4,"1 NTF2, 1 RRM","RRM + Other domains"
+43,Q9H361,"1 PABC, 4 RRMs","RRM + Other domains"
+44,Q9UBU9,"1 NTF2, 1 TAP-C, 1 RRM","RRM + Other domains"
+45,Q4VXU2,"1 PABC, 4 RRMs","RRM + Other domains"
