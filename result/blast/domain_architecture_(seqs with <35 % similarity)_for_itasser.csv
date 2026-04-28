@@ -1,0 +1,110 @@
+S_No,Target_Sequence,Domain_Architecture,Category
+1,A6NDE4,1 RRM,Single RRM
+2,A6NDY0,1 RRM,Single RRM
+3,O60812,1 RRM,Single RRM
+4,O75526,1 RRM,Single RRM
+5,O95628,1 RRM,Single RRM
+6,P0C7P1,1 RRM,Single RRM
+7,P0DJD3,1 RRM,Single RRM
+8,P55884,1 RRM,Single RRM
+9,P57052,1 RRM,Single RRM
+10,P62995,1 RRM,Single RRM
+11,Q2M296,1 RRM,Single RRM
+12,Q5RL73,1 RRM,Single RRM
+13,Q5T481,1 RRM,Single RRM
+14,Q6ZSC3,1 RRM,Single RRM
+15,Q8IZ69,1 RRM,Single RRM
+16,Q8N7X1,1 RRM,Single RRM
+17,Q8NDV7,1 RRM,Single RRM
+18,Q8TBF4,1 RRM,Single RRM
+19,Q8WXA9,1 RRM,Single RRM
+20,Q8WXF0,1 RRM,Single RRM
+21,Q9BY77,1 RRM,Single RRM
+22,Q9BYG3,1 RRM,Single RRM
+23,Q9GZT3,1 RRM,Single RRM
+24,Q9H0L4,1 RRM,Single RRM
+25,Q9H0Z9,1 RRM,Single RRM
+26,Q9NW64,1 RRM,Single RRM
+27,Q9P2N5,1 RRM,Single RRM
+28,Q9UBK2,1 RRM,Single RRM
+29,Q9ULW3,1 RRM,Single RRM
+30,Q9UPQ9,1 RRM,Single RRM
+31,Q9Y3A4,1 RRM,Single RRM
+32,Q9Y388,1 RRM,Single RRM
+33,Q9Y4F3,1 RRM,Single RRM
+34,Q53F19,1 RRM,Single RRM
+35,Q76FK4,1 RRM,Single RRM
+36,Q86SE5,1 RRM,Single RRM
+37,Q96E39,1 RRM,Single RRM
+38,Q96H35,1 RRM,Single RRM
+39,Q96IZ5,1 RRM,Single RRM
+40,Q02040,1 RRM,Single RRM
+41,Q13595,1 RRM,Single RRM
+42,Q15415,1 RRM,Single RRM
+43,Q9BTD8,1 RRM,Single RRM
+44,Q86U42,1 RRM,Single RRM
+45,Q86YN6,1 RRM,Single RRM
+46,Q16560,1 RRM,Single RRM
+47,Q16630,1 RRM,Single RRM
+48,O14979,2 RRMs,Multiple RRMs
+49,O43390,3 RRMs,Multiple RRMs
+50,O43719,2 RRMs,Multiple RRMs
+51,O60506,3 RRMs,Multiple RRMs
+52,P14866,4 RRMs,Multiple RRMs
+53,P19338,4 RRMs,Multiple RRMs
+54,P52272,3 RRMs,Multiple RRMs
+55,Q5T8P6,2 RRMs,Multiple RRMs
+56,Q7Z5Q1,2 RRMs,Multiple RRMs
+57,Q8IUH3,3 RRMs,Multiple RRMs
+58,Q8IYX4,2 RRMs,Multiple RRMs
+59,Q8NE35,2 RRMs,Multiple RRMs
+60,Q8TBY0,3 RRMs,Multiple RRMs
+61,Q8WVV9,3 RRMs,Multiple RRMs
+62,Q9BWF3,2 RRMs,Multiple RRMs
+63,Q9BZC1,3 RRMs,Multiple RRMs
+64,Q9H6T0,3 RRMs,Multiple RRMs
+65,Q9HCJ3,3 RRMs,Multiple RRMs
+66,Q9NQ94,3 RRMs,Multiple RRMs
+67,Q9NTZ6,3 RRMs,Multiple RRMs
+68,Q9NW13,3 RRMs,Multiple RRMs
+69,Q9NX07,2 RRMs,Multiple RRMs
+70,Q9UHX1,3 RRMs,Multiple RRMs
+71,Q9Y4C8,2 RRMs,Multiple RRMs
+72,Q86U06,2 RRMs,Multiple RRMs
+73,Q9BQ04,2 RRMs,Multiple RRMs
+74,Q96EP5,2 RRMs,Multiple RRMs
+75,Q96J87,3 RRMs,Multiple RRMs
+76,Q96LT9,2 RRMs,Multiple RRMs
+77,Q96PK6,2 RRMs,Multiple RRMs
+78,Q08170,2 RRMs,Multiple RRMs
+79,Q13151,2 RRMs,Multiple RRMs
+80,Q13242,2 RRMs,Multiple RRMs
+81,Q13243,2 RRMs,Multiple RRMs
+82,Q13247,2 RRMs,Multiple RRMs
+83,Q14498,3 RRMs,Multiple RRMs
+84,Q14966,2 RRMs,Multiple RRMs
+85,Q15434,2 RRMs,Multiple RRMs
+86,O95104,"1 CID, 1 RRM","RRM + Other domains"
+87,P52756,"1 G-patch, 1 RRM","RRM + Other domains"
+88,P78332,"1 G-patch, 1 RRM","RRM + Other domains"
+89,Q13283,"1 NTF2, 1 RRM","RRM + Other domains"
+90,Q14151,"1 SAP, 1 RRM","RRM + Other domains"
+91,Q15424,"1 SAP, 1 RRM","RRM + Other domains"
+92,Q5VZ19,"1 Tudor, 1 RRM","RRM + Other domains"
+93,Q71RC2,"1 HTH, 1 RRM","RRM + Other domains"
+94,Q8TAS1,"1 Protein kinase, 1 RRM","RRM + Other domains"
+95,Q92615,"1 HTH, 1 RRM","RRM + Other domains"
+96,Q96T37,"1 SPOC, 3 RRM","RRM + Other domains"
+97,Q96T58,"1 RID, 1 SPOC, 4 RRMs","RRM + Other domains"
+98,Q9BRS8,"1 HTH, 1 RRM","RRM + Other domains"
+99,Q9NVM6,"1 J, 1 RRM","RRM + Other domains"
+100,Q9NWH9,"1 SAP, 1 RRM","RRM + Other domains"
+101,Q9UN86,"1 NTF2, 1 RRM","RRM + Other domains"
+102,Q9UPN6,"1 CID, 1 RRM","RRM + Other domains"
+103,Q9UPS6,"1 SET, 1 Post-SET, 1 RRM","RRM + Other domains"
+104,Q9Y6M1,"4 KH, 2 RRMs","RRM + Other domains"
+105,O15047,"1 SET, 1 Post-SET, 1 RRM","RRM + Other domains"
+106,Q4G0J3,"1 HTH La-type, 1 RRM","RRM + Other domains"
+107,P49756,"1 PWI, 1 RRM","RRM + Other domains"
+108,Q8WUA2,"1 PPIase cyclophilin type, 1 RRM","RRM + Other domains"
+109,Q96I25,"1 G-patch, 1 RRM","RRM + Other domains"
